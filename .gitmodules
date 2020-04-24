@@ -1,0 +1,3 @@
+[submodule "BakSneppenSimulation.jl"]
+	path = BakSneppenSimulation.jl
+	url = https://github.com/newptcai/BakSneppenSimulation.jl
